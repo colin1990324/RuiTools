@@ -1,4 +1,4 @@
-package com.rui.tools.basic;
+package rui.tools.basic;
 
 import java.util.Random;
 
